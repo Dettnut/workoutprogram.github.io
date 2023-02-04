@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    height: auto;
+    width: auto;
+    margin-top: 150px;
+    display: flex;
+    border-width: 2px;
+
+}
+li ul {
+    font-size: large;
+    font-weight: bold;
+    margin: 14px;
+    font-size: medium;
+}
+li {
+    font-weight: bold;
+    font-size: large;
+}
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+th {
+    height: 50px;
+    width: auto;
+    text-align: left;
+    font-weight: bold;
+}
+.box {
+    color: black;
+}
+.rest {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
